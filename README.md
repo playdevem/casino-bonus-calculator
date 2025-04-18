@@ -2,7 +2,7 @@
 
 A simple, user-friendly calculator for casino bonuses and wagering requirements.
 
-<img src="https://i.postimg.cc/pLJy5bqB/temp-Imagea-Wyxzo.avif" alt="Screenshot of casino bonus calculator" title="This is a screenshot of the online casino bonus calculator" width="450"/>
+<img src="https://i.postimg.cc/NFC8p6fd/temp-Image-Pl-LCS8.avif" alt="Screenshot of casino bonus calculator" title="This is a screenshot of the online casino bonus calculator" width="450"/>
 
 ## Features
 - Calculate bonus amount based on deposit
