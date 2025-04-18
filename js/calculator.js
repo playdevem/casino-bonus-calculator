@@ -8,7 +8,7 @@ if (document.getElementById('deposit') &&
         // Get input values
         const deposit = parseFloat(document.getElementById('deposit').value);
         const bonusPercentage = parseFloat(document.getElementById('bonus').value);
-        const wagerMultiplier = parseFloat(document.getElemenxtById('wager').value);
+        const wagerMultiplier = parseFloat(document.getElementById('wager').value);
 
         // Validate inputs
         if (isNaN(deposit) || isNaN(bonusPercentage) || isNaN(wagerMultiplier)) {
